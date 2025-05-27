@@ -95,3 +95,7 @@ describe('E-commerce Store Tests', () => {
     });
   });
 });
+
+
+
+// Note: Adjust selectors based on your actual Shopify theme structure.
